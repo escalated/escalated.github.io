@@ -4,7 +4,7 @@ title: About me
 subtitle: I'm super exciting
 ---
 
-That was a lie.
+The title is a lie.
 
 At least I'm honest.
 
