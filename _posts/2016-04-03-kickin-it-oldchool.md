@@ -18,4 +18,5 @@ Anyway, the ICOM-730 was awesome, and I would definitely go through the entire e
 I ended up selling the rig to an old CB guy that was just getting into ham, he seemed like a nice guy, and I know he'll take good care of it.
 
 73s
+
 -Merrick
