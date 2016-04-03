@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: I'm super exciting
-bigimg: "/img/me_skippin_rock_crop.png"
+bigimg: "/img/wsjt_waterfall_tilt.png"
 ---
 
 The title is a lie.
