@@ -7,7 +7,7 @@ bigimg: /img/icom_closeup_bwSMALL.png
 
 I started off in HF with an ICOM IC-730, I loved that rig.
 
-I had done weeks of research on a good HF starter rig that was in my budget, and the IC-730 kept coming up. Eventually, I lucked out and stubled across a craigslist ad for one about 30 minutes drive away. An old ham was using it as his backup rig. 
+I had done weeks of research on a good HF starter rig that was in my budget, and the IC-730 kept coming up. Eventually, I lucked out and stumbled across a craigslist ad for one about 30 minutes drive away. An old ham was using it as his backup rig. 
 
 I ended up getting the IC-730, an old non-working [IC-HM10 microphone](/img/closeup_orig_mic_sized.jpg), and a [D-104 chicken choker style desk mic](/img/powered_D104_mic_sized.jpg) from him. It was a great deal and I was pumped to get on the air. I used this rig for about a month before I decided that something had to be done, it simply didn't have the features I needed (noise reduction being one of them, I live in a very RF noisy QTH). I wanted to do digital stuff!
 
